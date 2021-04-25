@@ -31,7 +31,8 @@
                 "axis":"速度",
                 "value":95
             }			
-        ]
+        ],
+        "pic":"https://media.52poke.com/wiki/2/21/%E7%9C%9F%E5%8F%B8_%E7%94%B5%E5%87%BB%E9%AD%94%E5%85%BD.png"
     },
     {
         "name": "龍王蠍",
@@ -66,7 +67,8 @@
                 "axis":"速度",
                 "value":95
             }
-        ]
+        ],
+        "pic":"https://media.52poke.com/wiki/b/be/%E7%9C%9F%E5%8F%B8_%E9%BE%99%E7%8E%8B%E8%9D%8E.png"
     },
     {
         "name": "海兔獸",
@@ -101,7 +103,8 @@
                 "axis":"速度",
                 "value":39
             }
-        ]
+        ],
+        "pic":"https://media.52poke.com/wiki/4/49/%E7%9C%9F%E5%8F%B8_%E6%B5%B7%E5%85%94%E5%85%BD.png"
     },
     {
         "name": "雪妖女",
@@ -136,7 +139,8 @@
                 "axis":"速度",
                 "value":110
             }
-        ]
+        ],
+        "pic":"https://media.52poke.com/wiki/5/57/%E7%9C%9F%E5%8F%B8_%E9%9B%AA%E5%A6%96%E5%A5%B3.png"
     },
     {
         "name": "波士可多拉",
@@ -171,7 +175,8 @@
                 "axis":"速度",
                 "value":50
             }
-        ]
+        ],
+        "pic":"https://media.52poke.com/wiki/8/82/%E7%9C%9F%E5%8F%B8_%E6%B3%A2%E5%A3%AB%E5%8F%AF%E5%A4%9A%E6%8B%89.png"
     },
     {
         "name": "鐵面忍者",
@@ -206,6 +211,7 @@
                 "axis":"速度",
                 "value":160
             }
-        ]
+        ],
+        "pic":"https://media.52poke.com/wiki/d/d0/%E7%9C%9F%E5%8F%B8_%E9%93%81%E9%9D%A2%E5%BF%8D%E8%80%85.png"
     }
 ]
